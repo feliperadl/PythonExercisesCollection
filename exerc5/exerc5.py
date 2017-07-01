@@ -8,5 +8,4 @@ def isVowel2(char):
 
     returns: True if char is a vowel and False otherwise.
     '''
-    # Your code here
     return char in ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U']
